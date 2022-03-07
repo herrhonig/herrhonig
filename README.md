@@ -37,7 +37,7 @@ Javascript | *methodology* | MVC, DOM, TDD, AJAX, SOLID, OOP
 React | *services* | React router DOM v6, Redux, Redux saga, Redux Toolkit
 node.js | *stack* | Express, JWT, REST API, Axios
 SQL | *ORM & DB* | Postgres, SequelizeORM, MongoDB
-Development & Deploy | *services* | GIT, Firebase, Heroku, webpack
+Development & Deploy | *services* | GIT
 Testing | *test* | Jest
 HTML & CSS | *preprocessors & principles* | Ant Design, SaSS, Bootstrap,Material UI, module, grid, flexboxes
 
