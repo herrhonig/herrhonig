@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### How to reach me: 
 
- - telegam - [@logell](https://t.me/logell) 
+ - telegram - [@logell](https://t.me/logell) 
  - email - nikita.bukof@gmail.com
 
 Techonologies | Description | Tools
