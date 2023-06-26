@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 Techonologies | Description | Tools
 --- | --- | ---
-Javascript | *methodology* | MVC, DOM, TDD, AJAX, SOLID, OOP
-React | *services* | React router DOM v6, Redux, Redux saga, Redux Toolkit
+Javascript | *methodology* | FLUX, MVC, SOLID, OOP, DDD
+React | *services* | React router DOM v6, Redux, Redux Toolkit
 node.js | *stack* | Express, JWT, REST API, Axios
-SQL | *ORM & DB* | Postgres, SequelizeORM, MongoDB
-Development & Deploy | *services* | GIT
+SQL | *ORM & DB* | PostgresSQL(SequelizeORM), MongoDB(basic)
+Development & Deploy | *services* | GIT, Gitlab, Github Actions
 Testing | *test* | Jest
-HTML & CSS | *preprocessors & principles* | Ant Design, SaSS, Bootstrap,Material UI, module, grid, flexboxes
+HTML & CSS | *preprocessors & principles* | Styled Components, moduleCSS, SaSS, MUI, AntD
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
