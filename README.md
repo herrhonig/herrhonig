@@ -39,7 +39,7 @@ node.js | *stack* | Express, JWT, REST API, Axios
 SQL | *ORM & DB* | PostgresSQL(SequelizeORM), MongoDB(basic)
 Development & Deploy | *services* | GIT, Gitlab, Github Actions
 Testing | *test* | Jest
-HTML & CSS | *preprocessors & principles* | Styled Components, moduleCSS, SaSS, MUI, AntD
+HTML & CSS | *preprocessors & principles* | Styled Components, moduleCSS, SCSS, MUI, AntD
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
