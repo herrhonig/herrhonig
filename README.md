@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Techonologies | Description | Tools
 --- | --- | ---
-Javascript | *methodology* | FLUX, MVC, DDD
+Methodology | *approach* | FLUX, DDD, MVC,
 Typescript | *typings* | Modern approach, strict mode
 UI-ecosystem | *UI libs* | React (18+), Tanstack-query, RTK-query, redux.
 Node.js | *stack* | Express, JWT, REST API
